@@ -152,6 +152,6 @@ Run all cells. This reads `customer_shopping_behavior.csv` and generates `custom
 
 ## 👤 Author
 
-**Arun**
+**Arun D**
 📍 India
-🔗 *Add your LinkedIn / Portfolio link here*
+🔗 www.linkedin.com/in/arun-durai-d162005
